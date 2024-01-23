@@ -40,6 +40,7 @@ if (isset($_SESSION["user"])) {
             }
         }
         ?>
+           <h1> Login Here </h1>
       <form action="login.php" method="post">
      
         <div class="form-group">
